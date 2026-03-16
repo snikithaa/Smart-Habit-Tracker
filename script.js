@@ -1,4 +1,4 @@
-// Habit Tracker Pro - Main JavaScript File
+// Smart Habit Tracker - Main JavaScript File
 
 class HabitTracker {
     constructor() {
